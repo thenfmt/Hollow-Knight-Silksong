@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - Grass
+  - Weapon
+  - Trap
+  - Acid
+  - Javelin
+  - Shield
+  - Sword
+  - Projectile
+  - PlayerCentreOfGravity
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Effects
+  - Terrain
+  - BlurBackground
+  - FrontGround
+  - Weapon
+  - BackGround
+  - Enemy
+  - Particle
+  - Decoration
+  - HeathBar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BlurBackground
+    uniqueID: 77722587
+    locked: 0
+  - name: BackGround
+    uniqueID: 3538593563
+    locked: 0
+  - name: Enemy
+    uniqueID: 1491930927
+    locked: 0
+  - name: Player
+    uniqueID: 1149994471
+    locked: 0
+  - name: Weapon
+    uniqueID: 847294589
+    locked: 0
+  - name: Terrain
+    uniqueID: 1457277153
+    locked: 0
+  - name: Decoration
+    uniqueID: 3379755231
+    locked: 0
+  - name: Particle
+    uniqueID: 1498796945
+    locked: 0
+  - name: Effects
+    uniqueID: 3222575865
+    locked: 0
+  - name: FrontGround
+    uniqueID: 2594074513
+    locked: 0
+  - name: HealthBar
+    uniqueID: 2015424525
+    locked: 0
+  - name: UI
+    uniqueID: 2316952805
+    locked: 0
